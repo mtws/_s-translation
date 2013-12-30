@@ -1,0 +1,340 @@
+# Copyright (C) 2013 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2013-12-19 02:31:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-12-30 15:23+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.6.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fi_FI\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Sivua ei löydy."
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "Mitään ei löytynyt. Voit kokeilla alla olevia linkkejä tai hakua."
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Käytetyimmät kategoriat"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Kokeille kuukausiarkistoa %1$s"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "Kirjoittaja: %s"
+
+#: archive.php:39
+msgid "Day: %s"
+msgstr "Päivä: %s"
+
+#: archive.php:42
+msgid "Month: %s"
+msgstr "Kuukausi: %s"
+
+#: archive.php:42
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:45
+msgid "Year: %s"
+msgstr "Vuosi: %s"
+
+#: archive.php:45
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:51
+msgid "Galleries"
+msgstr "Galleriat"
+
+#: archive.php:54
+msgid "Images"
+msgstr "Kuvat"
+
+#: archive.php:57
+msgid "Videos"
+msgstr "Videot"
+
+#: archive.php:60
+msgid "Quotes"
+msgstr "Lainaukset"
+
+#: archive.php:63
+msgid "Links"
+msgstr "Linkit"
+
+#: archive.php:66
+msgid "Statuses"
+msgstr "Tilat"
+
+#: archive.php:69
+msgid "Audios"
+msgstr "Audiot"
+
+#: archive.php:72
+msgid "Chats"
+msgstr "Chatit"
+
+#: archive.php:75 sidebar.php:17
+msgid "Archives"
+msgstr "Arkistot"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Yksi kommentti kirjoitukselle &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommenttia kirjoitukselle &ldquo;%2$s&rdquo;"
+
+#: comments.php:37 comments.php:57
+msgid "Comment navigation"
+msgstr "Kommenttien navigointi"
+
+#: comments.php:38 comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&larr; Vanhemmat kommentit"
+
+#: comments.php:39 comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "Uudemmat kommentit &rarr;"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Kommentointi suljettu."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Mitään ei löytynyt"
+
+#: content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Valmiina julkaisemaan ensimmäisen merkinnän? <a href=\"%1$s\">Aloita tästä</"
+"a>."
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Hakusi ei valitettavasti tuottanut tulosta. Yritä uudelleen toisilla "
+"hakusanoilla."
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Etsimääsi ei valitettavasti löytynyt. Voit kokeilla hakua."
+
+#: content-page.php:18 content-single.php:20 content.php:27
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: content-page.php:23 content-single.php:60 content.php:61
+#: inc/template-tags.php:81 inc/template-tags.php:100
+msgid "Edit"
+msgstr "Muokkaa"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:29 content-single.php:32 content.php:38 content.php:48
+msgid ", "
+msgstr ", "
+
+#: content-single.php:37
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr "Avainsanat %2$s. <a href=\"%3$s\" rel=\"bookmark\">Pysyvä linkki</a>."
+
+#: content-single.php:39
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "<a href=\"%3$s\" rel=\"bookmark\">Pysyvä linkki</a>."
+
+#: content-single.php:45
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Kategoriat: %1$s. Avainsanat: %2$s. <a href=\"%3$s\" rel=\"bookmark\">Pysyvä "
+"linkki</a>."
+
+#: content-single.php:47
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"Kategoriat: %1$s.  <a href=\"%3$s\" rel=\"bookmark\">Pysyvä linkki</a>."
+
+#: content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lue lisää <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:42
+msgid "Posted in %1$s"
+msgstr "Kategoria(t) %1$s"
+
+#: content.php:52
+msgid "Tagged %1$s"
+msgstr "Avainsanat %1$s"
+
+#: content.php:58
+msgid "Leave a comment"
+msgstr "Jätä kommentti"
+
+#: content.php:58
+msgid "1 Comment"
+msgstr "1 kommentti"
+
+#: content.php:58
+msgid "% Comments"
+msgstr "kommenttia"
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "Alustana %s"
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr "Teema: %1$s. Tekijä: %2$s."
+
+#: functions.php:45
+msgid "Primary Menu"
+msgstr "Päävalikko"
+
+#: functions.php:65
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: header.php:31
+msgid "Menu"
+msgstr "Valikko"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Sivu %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigointi"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vanhemmat merkinnät"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Uudemmat merkinnät <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigointi"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:81
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:91
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">sanoo:</span>"
+
+#: inc/template-tags.php:97
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s klo %2$s"
+
+#: inc/template-tags.php:104
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi odottaa moderointia"
+
+#: inc/template-tags.php:145
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Kirjoitettu %1$s</span><span class=\"byline\"> "
+"kirjoittaja: %2$s</span>"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Tulokset haulle: %s"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "Hae:"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Haku &hellip;"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hae"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "Meta"
+
+#. Theme Name of the plugin/theme
+msgid "_s"
+msgstr "_s"
+
+#. Theme URI of the plugin/theme
+msgid "http://underscores.me/"
+msgstr "http://underscores.me/"
+
+#. Description of the plugin/theme
+msgid ""
+"Hi. I'm a starter theme called <code>_s</code>, or <em>underscores</em>, if "
+"you like. I'm a theme meant for hacking so don't use me as a <em>Parent "
+"Theme</em>. Instead try turning me into the next, most awesome, WordPress "
+"theme out there. That's what I'm here for."
+msgstr ""
+"Tämä on aloitusteema <code>_s</code>, eli <em>underscores</em>. Älä käytä "
+"teemaa sellaisenaan, vaan käytä sitä pohjana luodessasi uutta teemaa."
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr "http://automattic.com/"
